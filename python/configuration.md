@@ -1,0 +1,9 @@
+```r
+# ~/documents/github/myenv/pyvenv.cfg
+home = /Library/Frameworks/Python.framework/Versions/3.11/bin
+include-system-site-packages = false
+version = 3.11.2
+executable = /Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11
+command = /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 -m venv /Users/d/Documents/GitHub/myenv
+
+```
